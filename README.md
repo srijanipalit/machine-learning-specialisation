@@ -10,7 +10,7 @@ Machine Learning Specialisation by Andrew Ng on Coursera
 
 # Structure
 
-The courses have been divided into weeks (W1, W2, W3, etc). Only my notes of the labs are available. 
+The courses have been divided into weeks (W1, W2, W3, etc). My notes of only the labs are available. 
 
 ## Note: 
-The files were create don a Python 3.10.6 with the libraries NumPy, MatplotLib, Scikit-Learn, SciPy and Tensorflow. 
+The files were create on a Python 3.10.6 virtual environment with the libraries NumPy, MatplotLib, Scikit-Learn, SciPy and Tensorflow installed. 
